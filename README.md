@@ -34,7 +34,7 @@ The system follows a **three-tier architecture**:
 ## Installation Guide
 1. **Clone the Repository:**
    
-   git clone https://github.com/yourusername/blood-bank-management.git
+   git clone (https://github.com/mayeshakader/Bloodbank.git)
    cd blood-bank-management
    
 2. **Set Up XAMPP:**
