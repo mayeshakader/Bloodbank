@@ -60,7 +60,7 @@ The system follows a **three-tier architecture**:
 For queries or support, reach out to **mayeshakader13@gmail.com**.
 
 ---
-**Developed by:** Sharhriar Hossain
+**Developed by:** Shahriar Hossain Arafat
                   Mayesha kader
                   Tasmiah binte Iqbal
 🚀 *Modernizing blood donation through technology!*
